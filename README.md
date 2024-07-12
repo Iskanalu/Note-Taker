@@ -1,9 +1,9 @@
-# Note Taker Starter Code 📝
+# Note Taker 📝
 
 ## User Story
 
-AS A small business owner
-I WANT to be able to write and save notes
+- AS A small business owner
+I WANT to be able to write and save notes,
 SO THAT I can organize my thoughts and keep track of tasks I need to complete
 
 ## Acceptance Criteria
@@ -30,4 +30,6 @@ THEN I am presented with empty fields to enter a new note title and the note’s
 
 ## Mock-Up
 
-![The foolowing image shows the web application's appearance and functionality:] (.)
+![The foolowing image shows the web application's appearance and functionality:](./11-express-homework-demo.gif)
+
+© 2024 edX Boot Camps LLC. Confidential and Proprietary. All Rights Reserved.
